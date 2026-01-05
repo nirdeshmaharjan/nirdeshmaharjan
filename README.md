@@ -32,6 +32,7 @@ I combine technical skills with creative thinking to build engaging digital expe
 - Always learning new tools and improving my skills
 
 ---
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nirdeshmaharjan&theme=tokyonight&hide_border=true&border_radius=20" width="400px"/>
+---
 ## 📫 Connect With Me
 Feel free to explore my repositories and reach out for collaboration or feedback.
