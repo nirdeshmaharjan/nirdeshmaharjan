@@ -1,4 +1,4 @@
-# Hi, I'm 👋
+# Hi, I'm 
 
 ## 🎥 Video Editor | 📸 Photographer | 🎨 Graphic Designer | 💻 Web Developer
 
@@ -7,7 +7,7 @@ I combine technical skills with creative thinking to build engaging digital expe
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -17,7 +17,7 @@ I combine technical skills with creative thinking to build engaging digital expe
 
 ---
 
-### 🎨 Creative Skills
+###  Creative Skills
 - Video Editing
 - Photography
 - Graphic Design
@@ -26,7 +26,7 @@ I combine technical skills with creative thinking to build engaging digital expe
 
 ---
 
-## 📌 About Me
+##  About Me
 - Passionate about blending **design and development**
 - Focused on building **simple, clean, and effective** projects
 - Always learning new tools and improving my skills
@@ -34,5 +34,5 @@ I combine technical skills with creative thinking to build engaging digital expe
 ---
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nirdeshmaharjan&theme=tokyonight&hide_border=true&border_radius=20" width="400px"/>
 ---
-## 📫 Connect With Me
+##  Connect With Me
 Feel free to explore my repositories and reach out for collaboration or feedback.
